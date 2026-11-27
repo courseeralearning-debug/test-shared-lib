@@ -1,3 +1,4 @@
+//Shared
 // Shared library step (repo: jenkins-shared-lib, path vars/notifyBuild.groovy)
 // Usage in any Jenkinsfile:  notifyBuild('FAILURE')
 def call(String status) {
